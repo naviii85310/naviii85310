@@ -1,71 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Naveen!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:00BFFF&height=200&section=header&text=NAVIII85310&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-###  Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub;Aspiring+Software+Developer;Code+%7C+Create+%7C+Innovate" />
 
-🚀 Passionate about Coding & Technology
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+New+Technologies;Building+Creative+Projects" />
+### 🖤 FUTURE DEVELOPER | 💙 TECH ENTHUSIAST
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Student and Web developer
-- 💡 Interested in Software Development
-- 🌱 Learning new technologies
-- 🚀 Building creative projects
-- 🎯 Goal: Become a skilled developer
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naviii85310&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naviii85310&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 My Projects
-
-| Project | Description |
-|---|---|
-| 🌐 Portfolio Website | My personal developer portfolio |
-| 🤖 Machine Learning | ML-based projects |
-| 💡 Web Development | Creative website projects |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/naviii85310">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### ✨ "Code. Learn. Build. Repeat." ✨
-
-⭐ Thanks for visiting my profile!
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/naviii85310)
 
 </div>
+
+---
+
+## 💻 ABOUT ME
+
+```python
+class Developer:
+    def __init__(self):
+        self.username = "naviii85310"
+        self.role = "Web Developer"
+        self.interests = [
+            "Programming",
+            "Web Development",
+            "Machine Learning"
+        ]
+        self.goal = "Build amazing projects"
+
+    def say_hello(self):
+        print("Welcome to my GitHub!")
+
+me = Developer()
+me.say_hello()
